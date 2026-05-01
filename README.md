@@ -1,5 +1,9 @@
 # test_bety
 
+## Демо
+
+https://github.com/user-attachments/assets/d3e995fb-ade8-4b82-a1ec-c16f924dbd67
+
 ## Запуск
 
 Потрібен Flutter 3.41+ / Dart 3.11+.
